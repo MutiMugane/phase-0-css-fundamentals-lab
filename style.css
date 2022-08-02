@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header
+{
+ text-align: center;
+}
+
+#featured-property
+{
+align-items: center;
+width: 800px;
+align-items: center;
+}
+
+#links{
+  align-items: center;
+}
+
+#caption{
+  text-size-adjust: 10px;
+
+}
+
+#details{
+  float: left;
+  width: 25%;
+  background-color: brown;
+  text-align: center;
+  
+}
+
